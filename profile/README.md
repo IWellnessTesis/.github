@@ -57,6 +57,8 @@ La comunicación se da por:
 # 🤝 EQUIPO
 Somos 4 futuros ingenieros de la Pontificia Universidad Javeriana. Este es nuestro Trabajo de Grado!
 - Maria Andrea Méndez
+  ![Imagen de WhatsApp 2025-05-22 a las 22 23 10_24af235f](https://github.com/user-attachments/assets/d6bbf8a1-3fd9-4d9e-a510-260326e911af)
 - Daniela Florez
+- ![Imagen de WhatsApp 2025-05-22 a las 22 17 18_8b5d4c76](https://github.com/user-attachments/assets/74a6bdf7-c402-4ddb-8f7d-165ba9b6999e)
 - Juan David Hernandez
 - Sara Peña
