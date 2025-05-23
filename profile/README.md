@@ -53,12 +53,28 @@ La comunicación se da por:
 3. Luego, ejecutar el front y los microservicios
 4. Una vez esten en ejecución, ejecutar la cola, el consumidor, la base de datos de persistencia y el analista para que I-Wellness funcione de forma completa
 5. Disfrutar de nuestro MVP! :)
-
+   
 # 🤝 EQUIPO
-Somos 4 futuros ingenieros de la Pontificia Universidad Javeriana. Este es nuestro Trabajo de Grado!
-- Maria Andrea Méndez
-  ![Imagen de WhatsApp 2025-05-22 a las 22 23 10_24af235f](https://github.com/user-attachments/assets/d6bbf8a1-3fd9-4d9e-a510-260326e911af)
-- Daniela Florez
-- ![Imagen de WhatsApp 2025-05-22 a las 22 17 18_8b5d4c76](https://github.com/user-attachments/assets/74a6bdf7-c402-4ddb-8f7d-165ba9b6999e)
-- Juan David Hernandez
-- Sara Peña
+
+Somos 4 futuros ingenieros de la **Pontificia Universidad Javeriana** y este es nuestro **Trabajo de Grado** 🎓🚀
+
+---
+
+### 👩‍💻 María Andrea Méndez  
+![María Andrea Méndez](https://github.com/user-attachments/assets/d6bbf8a1-3fd9-4d9e-a510-260326e911af)
+
+---
+
+### 👩‍💻 Daniela Flórez  
+![Daniela Flórez](https://github.com/user-attachments/assets/74a6bdf7-c402-4ddb-8f7d-165ba9b6999e)
+
+---
+
+### 👨‍💻 Juan David Hernández
+
+---
+
+### 👩‍💻 Sara Peña  
+![Sara Peña](https://github.com/user-attachments/assets/dd1b58e5-6241-4615-8761-667da56ef754)
+
+---
