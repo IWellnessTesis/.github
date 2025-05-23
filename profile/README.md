@@ -56,17 +56,17 @@ La comunicación se da por:
    
 # 🤝 EQUIPO
 
-Somos 4 futuros ingenieros de la **Pontificia Universidad Javeriana** y este es nuestro **Trabajo de Grado** 🎓🚀
+Somos cuatro estudiantes de la **Pontificia Universidad Javeriana** y este proyecto es nuestro **Trabajo de Grado**. Unimos nuestras habilidades para crear una solución tecnológica enfocada en el turismo de bienestar en Costa Rica. 🎓🚀
 
 ---
 
 ### 👩‍💻 María Andrea Méndez  
-![María Andrea Méndez](https://github.com/user-attachments/assets/d6bbf8a1-3fd9-4d9e-a510-260326e911af)
+<img src="https://github.com/user-attachments/assets/d6bbf8a1-3fd9-4d9e-a510-260326e911af" alt="María Andrea Méndez" height="150"/>
 
 ---
 
 ### 👩‍💻 Daniela Flórez  
-![Daniela Flórez](https://github.com/user-attachments/assets/74a6bdf7-c402-4ddb-8f7d-165ba9b6999e)
+<img src="https://github.com/user-attachments/assets/74a6bdf7-c402-4ddb-8f7d-165ba9b6999e" alt="Daniela Flórez" height="150"/>
 
 ---
 
@@ -75,6 +75,7 @@ Somos 4 futuros ingenieros de la **Pontificia Universidad Javeriana** y este es 
 ---
 
 ### 👩‍💻 Sara Peña  
-![Sara Peña](https://github.com/user-attachments/assets/dd1b58e5-6241-4615-8761-667da56ef754)
+<img src="https://github.com/user-attachments/assets/dd1b58e5-6241-4615-8761-667da56ef754" alt="Sara Peña" height="150"/>
 
 ---
+
