@@ -18,10 +18,11 @@ La solución se basa en microservicios desacoplados que se comunican entre sí m
 | Servicio               | Descripción                                                  |
 |------------------------|--------------------------------------------------------------|
 |  [`admin_users_api`](https://github.com/IWellnessTesis/IWellness_data_services/tree/main).      | Gestión de usuarios, autenticación y roles                   |
-| `providers_api`        | Gestión de proveedores y sus servicios turísticos            |
-| `user_preferences_api` | Registro y actualización de preferencias de turistas         |
-| `IWellness_Data_Services` | Almacenamiento de datos y analítica para dashboards     |
-| `Queue_Rabbit`         | Consumidor de colas RabbitMQ para persistencia de mensajes   |
+| [`providers_api`](https://github.com/IWellnessTesis/providers_api).        | Gestión de servicios turísticos            |
+| [`user_preferences_api`](https://github.com/IWellnessTesis/user_preferences_api). | Registro y actualización de preferencias de turistas         |
+| [`IWellness_Data_Services`](https://github.com/IWellnessTesis/IWellness_data_services/tree/main). | Almacenamiento de datos y analítica para dashboards     |
+| [`Queue_Rabbit`](https://github.com/IWellnessTesis/Queue-Rabbit)         | Consumidor de colas RabbitMQ para persistencia de mensajes   |
+| [`IWellness_DB`](https://github.com/IWellnessTesis/IWellness-DB). | Base de datos para la persistencia y análisis de datos
 
 ### 🎨 Frontend
 
@@ -45,10 +46,11 @@ La comunicación se da por:
 - REST APIs (entre microservicios y frontend)
 - RabbitMQ (para enviar eventos o datos transaccionales que deben persistirse en bloque)
 
-## ⚙️ Instrucciones para ejecución local
+## ⚙️ Instrucciones
 
 1. Clonar los repositorios de cada microservicio y frontend
-2. Levantar los servicios con Docker o manualmente:
-   ```bash
-   docker-compose up -d
+2. Leer el README de cada repo para conocer su funcionalidad especifica y levantar contenedores de ser necesario
+3. Luego, ejecutar el front y los microservicios
+4. Una vez esten en ejecución, ejecutar la cola, el consumidor, la base de datos de persistencia y el analista para que I-Wellness funcione de forma completa
+5. Disfrutar de nuestro MVP! :)
 
