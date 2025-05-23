@@ -53,3 +53,10 @@ La comunicación se da por:
 3. Luego, ejecutar el front y los microservicios
 4. Una vez esten en ejecución, ejecutar la cola, el consumidor, la base de datos de persistencia y el analista para que I-Wellness funcione de forma completa
 5. Disfrutar de nuestro MVP! :)
+
+# 🤝 EQUIPO
+Somos 4 futuros ingenieros de la Pontificia Universidad Javeriana. Este es nuestro Trabajo de Grado!
+- Maria Andrea Méndez
+- Daniela Florez
+- Juan David Hernandez
+- Sara Peña
