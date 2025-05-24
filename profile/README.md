@@ -71,6 +71,8 @@ Somos cuatro estudiantes de la **Pontificia Universidad Javeriana** y este proye
 ---
 
 ### 👨‍💻 Juan David Hernández
+<img src="(https://github.com/user-attachments/assets/03480bc6-ef8e-474a-a8a1-67cce9bbb60c)" alt="Juan Hernandez" height="150"/>
+
 
 ---
 
