@@ -60,12 +60,13 @@ Somos cuatro estudiantes de la **Pontificia Universidad Javeriana** y este proye
 
 ---
 
-### 👩‍💻 [María Andrea Méndez] (https://github.com/mariaa-mendez)  
+### 👩‍💻 María Andrea Méndez
 <img src="https://github.com/user-attachments/assets/d6bbf8a1-3fd9-4d9e-a510-260326e911af" alt="María Andrea Méndez" height="150"/>
+🔗 [Perfil en GitHub](https://github.com/mariaa-mendez)
 
 ---
 
-### 👩‍💻 [Daniela Flórez] (https://github.com/sayaflowerz)  
+### 👩‍💻 [Daniela Flórez](https://github.com/sayaflowerz)  
 <img src="https://github.com/user-attachments/assets/74a6bdf7-c402-4ddb-8f7d-165ba9b6999e" alt="Daniela Flórez" height="150"/>
 
 ---
