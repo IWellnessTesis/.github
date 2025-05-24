@@ -60,9 +60,8 @@ Somos cuatro estudiantes de la **Pontificia Universidad Javeriana** y este proye
 
 ---
 
-### 👩‍💻 María Andrea Méndez
+### 👩‍💻 [María Andrea Méndez](https://github.com/mariaa-mendez)
 <img src="https://github.com/user-attachments/assets/d6bbf8a1-3fd9-4d9e-a510-260326e911af" alt="María Andrea Méndez" height="150"/>
-🔗 [Perfil en GitHub](https://github.com/mariaa-mendez)
 
 ---
 
@@ -71,13 +70,13 @@ Somos cuatro estudiantes de la **Pontificia Universidad Javeriana** y este proye
 
 ---
 
-### 👨‍💻 [Juan David Hernández] (https://github.com/clarck2547)
+### 👨‍💻 [Juan David Hernández](https://github.com/clarck2547)
 <img src="https://github.com/user-attachments/assets/03480bc6-ef8e-474a-a8a1-67cce9bbb60c" alt="Juan Hernandez" height="150"/>
 
 
 ---
 
-### 👩‍💻 [Sara Peña] (https://github.com/Sarapena02)  
+### 👩‍💻 [Sara Peña](https://github.com/Sarapena02)  
 <img src="https://github.com/user-attachments/assets/dd1b58e5-6241-4615-8761-667da56ef754" alt="Sara Peña" height="150"/>
 
 ---
